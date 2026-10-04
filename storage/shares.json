@@ -1,0 +1,80 @@
+{
+  "7Q1bW8ANvmbs0SlxHDXFjYoEw7knjdfZGM3Nhq9Xvgw": {
+    "token": "7Q1bW8ANvmbs0SlxHDXFjYoEw7knjdfZGM3Nhq9Xvgw",
+    "internalFilename": "1d7b3433-7101-463e-87c2-fe9ce9f195f3.png",
+    "mimeType": "image/png",
+    "fileSizeBytes": 183907,
+    "createdAt": 1790277844835,
+    "expiresAt": 1790364244835,
+    "maxDownloads": null,
+    "downloadCount": 0,
+    "isDeleted": false
+  },
+  "6vWaqyCdRYv540Ic83s757w9RG-xg8eT9ZXEfpjToUM": {
+    "token": "6vWaqyCdRYv540Ic83s757w9RG-xg8eT9ZXEfpjToUM",
+    "internalFilename": "ec60ccd2-d30c-45ab-85ae-94a3988e99c6.png",
+    "mimeType": "image/png",
+    "fileSizeBytes": 91,
+    "createdAt": 1790278316250,
+    "expiresAt": 1790281916250,
+    "maxDownloads": 5,
+    "downloadCount": 0,
+    "isDeleted": false
+  },
+  "IRjPQsoDjuNXzhLd2Y5Ub8EuO8b7gmnSzeSLa1AA6Q8": {
+    "token": "IRjPQsoDjuNXzhLd2Y5Ub8EuO8b7gmnSzeSLa1AA6Q8",
+    "internalFilename": "2b6fa328-dccb-4412-a7c9-675ff39e1bca.png",
+    "mimeType": "image/png",
+    "fileSizeBytes": 91,
+    "createdAt": 1790278322694,
+    "expiresAt": 1790281922694,
+    "maxDownloads": 5,
+    "downloadCount": 0,
+    "isDeleted": false,
+    "recipientEmail": "amigo.test@ejemplo.com",
+    "emailSent": true,
+    "emailSentAt": 1790278322695
+  },
+  "hkehkPxxTVHaufuXARM1w1yb0i91KXzRSIyrzzY2x2M": {
+    "token": "hkehkPxxTVHaufuXARM1w1yb0i91KXzRSIyrzzY2x2M",
+    "internalFilename": "defe13c4-ce33-4ac3-914a-d513ef0e6cc3.png",
+    "mimeType": "image/png",
+    "fileSizeBytes": 91,
+    "createdAt": 1790278326162,
+    "expiresAt": 1790281926162,
+    "maxDownloads": 5,
+    "downloadCount": 0,
+    "isDeleted": false,
+    "recipientEmail": "amigo.test@ejemplo.com",
+    "emailSent": true,
+    "emailSentAt": 1790278326162
+  },
+  "2p440d-dsRMz7ohklsEDLMiOVzxyvxwcSQ8c6m6KUdw": {
+    "token": "2p440d-dsRMz7ohklsEDLMiOVzxyvxwcSQ8c6m6KUdw",
+    "internalFilename": "812414fb-2e49-40d4-b8de-00e7737977d4.png",
+    "mimeType": "image/png",
+    "fileSizeBytes": 180731,
+    "createdAt": 1790278414903,
+    "expiresAt": 1790364814903,
+    "maxDownloads": null,
+    "downloadCount": 0,
+    "isDeleted": false,
+    "recipientEmail": "xaviervergescastella@gmail.com",
+    "emailSent": true,
+    "emailSentAt": 1790278414904
+  },
+  "qMxN0oGhODdwSN44M7QoYVDLPsUloIdijSLK-o9vndA": {
+    "token": "qMxN0oGhODdwSN44M7QoYVDLPsUloIdijSLK-o9vndA",
+    "internalFilename": "a47586e7-7206-45ca-8501-a2defb505154.png",
+    "mimeType": "image/png",
+    "fileSizeBytes": 91,
+    "createdAt": 1790278914357,
+    "expiresAt": 1790282514357,
+    "maxDownloads": 5,
+    "downloadCount": 0,
+    "isDeleted": false,
+    "recipientEmail": "xaviervergescastella@gmail.com",
+    "emailSent": false,
+    "emailSentAt": null
+  }
+}

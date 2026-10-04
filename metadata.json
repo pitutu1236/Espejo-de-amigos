@@ -1,0 +1,8 @@
+{
+  "name": "Espejo de Amigos - Test de Personalidad",
+  "description": "Juego de valoración sincera entre amigos: puntúa 50 rasgos de personalidad del 1 al 10, rectifica tus notas y genera la imagen para compartir.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
